@@ -2,6 +2,7 @@
 <h3 align="center">Im beginner Front-end developer 😎</h3>
 
 <h3 align="left">About me:</h3>
+
 - 🔭 I’m currently working on **something cool :D**
 
 - 🌱 I’m currently learning **Angular, React and Jest**
